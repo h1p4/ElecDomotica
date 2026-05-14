@@ -7,19 +7,20 @@ Durante el desarrollo se implementaron distintos módulos electrónicos y extens
 El objetivo principal fue aplicar conocimientos de programación, electrónica y sistemas embebidos para construir soluciones domóticas funcionales y escalables.
 
 ⚙️ Tecnologías Utilizadas
+
 🔹 Hardware
 Arduino
 Sensores electrónicos
 LEDs y actuadores
 Módulos de simulación domótica
 Protoboard y circuitería básica
+
 🔹 Software
 Arduino IDE
 Simuladores electrónicos
 Programación embebida
-💻 Lenguajes Utilizados
 
-Según el análisis del repositorio:
+💻 Lenguajes Utilizados
 
 Makefile — 44.4%
 C++ — 29.5%
